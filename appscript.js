@@ -1,38 +1,39 @@
+
 const questions = [
 {
-    question: "Who is our handsome instructor??",
+    question: "pinaka pogi sa gc??",
     answers: [
-        { text: "Emerson", correct: true},
-        { text: "Clack ken", correct: false},
-        { text: "Peter parker", correct: false},
-        { text: "Bruce Wayne", correct: false},
+        { text: "jayr", correct: true},
+        { text: "boy swimming", correct: false},
+        { text: "neo", correct: false},
+        { text: "boss g", correct: false},
     ]
 },
 {
-    question: "Who is batman",
+    question: "may pilot sa ml",
     answers: [
-        {text: "Emerson",correct: false},
-        {text: "Clack ken",correct: false},
-        {text: "Peter parker",correct: false},
-        {text: "Bruce Wayne",correct: true},
+        {text: "boy swimming",correct: false},
+        {text: "boss g",correct: false},
+        {text: "neo",correct: false},
+        {text: "ji ar",correct: true},
     ]
 },
 {
-    question: "who is superman",
+    question: "mamaw mag vale",
     answers: [
-        {text: "Emerson",correct: false},
-        {text: "Clack ken",correct: true},
-        {text: "Peter parker",correct: false},
-        {text: "Bruce Wayne",correct: false},
+        {text: "neo",correct: false},
+        {text: "ji ar",correct: true},
+        {text: "boss g",correct: false},
+        {text: "boy swimming",correct: false},
     ] 
 },
 {
     question: "who is spiderman",
     answers: [
-        {text: "Emerson",correct: false},
-        {text: "Clack ken",correct: false},
-        {text: "Peter parker",correct: true},
-        {text: "Bruce Wayne",correct: false},
+        {text: "boss g",correct: false},
+        {text: "ji ar",correct: false},
+        {text: "neo",correct: true},
+        {text: "boy swimming",correct: false},
     ] 
 }
 
