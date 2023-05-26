@@ -28,7 +28,7 @@ const questions = [
     ] 
 },
 {
-    question: "who is spiderman",
+    question: "mahilig may layla",
     answers: [
         {text: "boss g",correct: false},
         {text: "ji ar",correct: false},
