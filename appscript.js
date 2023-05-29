@@ -1,39 +1,39 @@
 
 const questions = [
 {
-    question: "pinaka pogi sa gc??",
+    question: "MS-Word is an example of _____",
     answers: [
-        { text: "jayr", correct: true},
-        { text: "boy swimming", correct: false},
-        { text: "neo", correct: false},
-        { text: "boss g", correct: false},
+        { text: "Application software", correct: true},
+        { text: "An operating system", correct: false},
+        { text: "A processing device", correct: false},
+        { text: "An input device", correct: false},
     ]
 },
 {
-    question: "may pilot sa ml",
+    question: "Ctrl, Shift and Alt are called .......... keys.",
     answers: [
-        {text: "boy swimming",correct: false},
-        {text: "boss g",correct: false},
-        {text: "neo",correct: false},
-        {text: "ji ar",correct: true},
+        {text: "alphanumeric",correct: false},
+        {text: "function",correct: false},
+        {text: "adjustment",correct: false},
+        {text: "modifier",correct: true},
     ]
 },
 {
-    question: "mamaw mag vale",
+    question: "A computer cannot boot if it does not have the _____",
     answers: [
-        {text: "neo",correct: false},
-        {text: "ji ar",correct: true},
-        {text: "boss g",correct: false},
-        {text: "boy swimming",correct: false},
+        {text: "Loader",correct: false},
+        {text: "Operating system",correct: true},
+        {text: "Compiler",correct: false},
+        {text: "Assembler",correct: false},
     ] 
 },
 {
-    question: "mahilig may layla",
+    question: "_______ is the process of dividing the disk into tracks and",
     answers: [
-        {text: "boss g",correct: false},
-        {text: "ji ar",correct: false},
-        {text: "neo",correct: true},
-        {text: "boy swimming",correct: false},
+        {text: " Crashing",correct: false},
+        {text: " Tracking",correct: false},
+        {text: "Formatting",correct: true},
+        {text: "Allotting",correct: false},
     ] 
 }
 
